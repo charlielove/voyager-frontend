@@ -14,16 +14,34 @@
             "email": "tech@pivotalagency.com.au"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/charlielove/voyager-blog"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/charlielove/voyager-pages"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/charlielove/voyager-forms"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/charlielove/voyager-frontend"
+        }
+    ],
     "minimum-stability": "stable",
     "require": {
         "pvtl/voyager-pages": "^0.2.13",
         "pvtl/voyager-blog": "^0.2.10",
-        "tcg/voyager": "^1.3",
-        "spatie/laravel-sitemap": "^5.7",
-        "teamtnt/laravel-scout-tntsearch-driver": "^11.0"
+        "tcg/voyager": "^1.6.dev",
+        "spatie/laravel-sitemap": "^6.1",
+        "teamtnt/laravel-scout-tntsearch-driver": "^11.1"
     },
     "require-dev": {
-        "phpunit/phpunit": "^8.5",
+        "phpunit/phpunit": "^9.0",
         "orchestra/testbench": "^3.4",
         "illuminated/testing-tools": "^0.5.5"
     },
