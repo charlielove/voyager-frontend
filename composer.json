@@ -39,7 +39,7 @@
         "pvtl/voyager-blog": "^0.2.10",
         "tcg/voyager": "^1.6.dev",
         "spatie/laravel-sitemap": "^6.1",
-        "teamtnt/laravel-scout-tntsearch-driver": "^11.1"
+        "teamtnt/laravel-scout-tntsearch-driver": "^11.6"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.0",
