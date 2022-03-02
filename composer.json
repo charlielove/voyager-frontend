@@ -35,8 +35,8 @@
     "minimum-stability": "stable",
     "require": {
         "laravel/framework": "^9.0",
-        "charlielove/voyager-pages": "^0.2.13",
-        "charlielove/voyager-blog": "^0.2.10",
+        "pvtl/voyager-pages": "^0.2.13",
+        "pvtl/voyager-blog": "^0.2.10",
         "tcg/voyager": "^1.6.dev",
         "spatie/laravel-sitemap": "^6.1",
         "teamtnt/laravel-scout-tntsearch-driver": "^11.6"
