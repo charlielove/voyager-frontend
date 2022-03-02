@@ -35,7 +35,7 @@
     "minimum-stability": "stable",
     "require": {
         "laravel/framework": "^9.0",
-        "pvtl/voyager-pages": "^0.2.13",
+        "pvtl/voyager-pages": "dev-dev",
         "pvtl/voyager-blog": "^0.2.10",
         "tcg/voyager": "^1.6.dev",
         "spatie/laravel-sitemap": "^6.1",
