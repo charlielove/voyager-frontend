@@ -37,7 +37,7 @@
         "laravel/framework": "^9.0",
         "pvtl/voyager-pages": "dev-dev",
         "pvtl/voyager-blog": "^0.2.10",
-        "tcg/voyager": "^1.6-l10",
+        "tcg/voyager": "^1.6",
         "spatie/laravel-sitemap": "^6.1",
         "teamtnt/laravel-scout-tntsearch-driver": "^11.6"
     },
