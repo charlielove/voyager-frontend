@@ -36,7 +36,7 @@
     "require": {
         "laravel/framework": "^10",
         "pvtl/voyager-pages": "*",
-        "pvtl/voyager-blog": "^0.2.10",
+        "pvtl/voyager-blog": "*",
         "tcg/voyager": "dev-1.6-l10",
         "spatie/laravel-sitemap": "^6.1",
         "teamtnt/laravel-scout-tntsearch-driver": "^11.6"
