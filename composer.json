@@ -34,7 +34,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "laravel/framework": "^10",
+        "laravel/framework": "^11",
         "pvtl/voyager-pages": "*",
         "pvtl/voyager-blog": "*",
         "tcg/voyager": "dev-1.6-l10",
