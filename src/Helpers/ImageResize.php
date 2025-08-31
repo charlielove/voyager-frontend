@@ -20,7 +20,7 @@ function imageUrl($imagePath = '', $width = null, $height = null, $config = arra
     // - You can add ASSET_URL=http://... to your .env to reference images through a CDN
     $hostname = config('app.asset_url', config('app.url'));
     $urlPrefix = $hostname . '/storage/';
-    $diskPath = str_replace($urlPrefix, '', $cachedUrl);
+    $diskPath = str_replace($urlPrefix, '', $cachedUrl ?? '');
 
     if (null === $cachedUrl || !Storage::exists($diskPath)) {
 
