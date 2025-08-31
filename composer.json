@@ -34,12 +34,12 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "laravel/framework": "^11.0",
+        "laravel/framework": "^10.0",
         "pvtl/voyager-pages": "*",
         "pvtl/voyager-blog": "*",
         "tcg/voyager": "*",
         "spatie/laravel-sitemap": "^7.0",
-        "teamtnt/laravel-scout-tntsearch-driver": "^14.0"
+        "teamtnt/laravel-scout-tntsearch-driver": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "^10.0",
