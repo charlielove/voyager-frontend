@@ -34,7 +34,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "laravel/framework": "^10.0",
+        "laravel/framework": "^11.0",
         "pvtl/voyager-pages": "*",
         "pvtl/voyager-blog": "*",
         "tcg/voyager": "*",
@@ -42,7 +42,7 @@
         "teamtnt/laravel-scout-tntsearch-driver": "^13.2"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.0",
+        "phpunit/phpunit": "^10.0",
         "orchestra/testbench": "^7.1",
         "illuminated/testing-tools": "^9.0"
     },
